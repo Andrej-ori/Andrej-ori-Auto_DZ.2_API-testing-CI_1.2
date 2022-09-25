@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/npftspcepik9vxxg?svg=true)](https://ci.appveyor.com/project/Andrej-ori/auto-dz-2-api-testing-ci-1-2)
